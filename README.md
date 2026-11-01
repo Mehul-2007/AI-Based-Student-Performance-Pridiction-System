@@ -1,5 +1,9 @@
 # Student Performance Prediction AI
 
+Based on AI-Based-Student-Performance-Pridiction-System by Ajay Prakash Pandey (MIT License).
+
+Original repo: https://github.com/Ajay-Prakash-Pandey/AI-Based-Student-Performance-Pridiction-System
+
 ![Project banner](assets/banner.png)
 
 Student Performance Prediction AI is a Streamlit-based machine learning dashboard that predicts a student's final score and academic pass/fail risk using academic history, attendance, study habits, support factors, and education context.
